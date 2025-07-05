@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JejeComesAssignment</string>
+    <string name="web_client_id">182786686737-1g104b1c5gmeao7ecsnh4oi71n1cfs0i.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
