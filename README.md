@@ -54,7 +54,7 @@ An advanced Android app that lets users **scan business cards**, **edit extracte
    git clone https://github.com/your-username/business-card-app.git
 
    
-APk DEMO
+APk DEMO Video 
 https://github.com/user-attachments/assets/0af84aad-04aa-40b3-8bd6-c23537995e87
 
 Firebase Data store 
