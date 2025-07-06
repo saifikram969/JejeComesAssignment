@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "182786686737",
+    "project_id": "jejecomesassignment",
+    "storage_bucket": "jejecomesassignment.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182786686737:android:66cd9c65183336f365d6b0",
+        "android_client_info": {
+          "package_name": "com.example.jejecomesassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATGfcYuJa-q6nvzEhWdT3qHk2UpRm8-0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
