@@ -83,8 +83,7 @@ class MainActivity : AppCompatActivity() {
             val address = dynamicFields["Address"]?.text?.toString()?.trim().orEmpty()
 
             if (name.isBlank() || phone.isBlank() || email.isBlank()) {
-                Toast.makeText(this, "Name, Phone, and Email are required.", Toast.LENGTH_SHORT)
-                    .show()
+                Toast.makeText(this, "Name, Phone, and Email are required.", Toast.LENGTH_SHORT).show()
                 return@setOnClickListener
             }
 
@@ -97,7 +96,11 @@ class MainActivity : AppCompatActivity() {
             )
 
             viewModel.saveCard(card)
+
+            //  Show Toast after saving
+            Toast.makeText(this, "Saved Card", Toast.LENGTH_SHORT).show()
         }
+
     }
 
         private fun processImage(bitmap: Bitmap) {
@@ -112,7 +115,7 @@ class MainActivity : AppCompatActivity() {
                 container.addView(binding.tvDemoTitle)
                 container.addView(binding.cardBusiness)
 
-                // ✅ Show the XML-defined edit title
+                //  Show the XML-defined edit title
                 binding.tvEditTitle.visibility = View.VISIBLE
                 container.addView(binding.tvEditTitle)
 

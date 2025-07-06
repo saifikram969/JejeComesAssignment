@@ -68,7 +68,7 @@ class SignInActivity : AppCompatActivity() {
         binding = ActivitySignInBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        // ✅ Skip login if already signed in
+        //  Skip login if already signed in
         val savedEmail = getSharedPreferences("user", MODE_PRIVATE).getString("email", null)
         val currentUser = FirebaseAuth.getInstance().currentUser
 

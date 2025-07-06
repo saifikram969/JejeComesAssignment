@@ -63,24 +63,24 @@ dependencies {
 
     // Koin
     implementation("io.insert-koin:koin-android:4.1.0")
-    // ✅ Firebase BOM (Recommended)
+    //  Firebase BOM (Recommended)
     implementation(platform("com.google.firebase:firebase-bom:33.16.0"))
 
-    // ✅ Firebase Realtime Database
+    //  Firebase Realtime Database
     implementation("com.google.firebase:firebase-database-ktx:21.0.0")
     implementation("com.google.firebase:firebase-common-ktx:21.0.0")
     implementation("com.google.firebase:firebase-firestore-ktx:25.1.4")
 
-    // ✅ ML Kit OCR (Text Recognition)
+    //  ML Kit OCR (Text Recognition)
     implementation("com.google.mlkit:text-recognition:16.0.1")
 
-    // ✅ CameraX
+    //  CameraX
     implementation("androidx.camera:camera-core:1.4.2")
     implementation("androidx.camera:camera-camera2:1.4.2")
     implementation("androidx.camera:camera-lifecycle:1.4.2")
     implementation("androidx.camera:camera-view:1.4.2")
 
-    // ✅ AndroidX + Material Components
+    //  AndroidX + Material Components
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
@@ -89,7 +89,7 @@ dependencies {
     implementation("androidx.recyclerview:recyclerview:1.4.0")
     implementation("androidx.cardview:cardview:1.0.0")
 
-    // ✅ Lifecycle & Coroutines
+    //  Lifecycle & Coroutines
     implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.1")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.10.2")
 
