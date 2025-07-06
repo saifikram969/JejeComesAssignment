@@ -43,7 +43,7 @@ An advanced Android app that lets users **scan business cards**, **edit extracte
 
 ## 📱 APK Download
 
-🔗 [https://www.mediafire.com/file/k63dagxs3ve8p0t/app-debug.apk/file]
+🔗 [https://drive.google.com/file/d/1U0sJyynLYuBm-nBqqE2q4I_s8E1h6GfE/view?usp=sharing]
 
 ---
 
