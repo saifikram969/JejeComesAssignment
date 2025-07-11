@@ -1,6 +1,6 @@
 # 📇 Business Card Scanner App
 
-An advanced Android app that lets users **scan business cards**, **edit extracted details**, and **save them to Firebase** or **locally with Room**. Built with **Google Sign-In**, **ML Kit OCR**, **Koin DI**, and **MVVM architecture**.
+An advanced Android app that lets users **scan business cards**, **edit extracted details**, and **save them to Firebase**. Built with **Google Sign-In**, **ML Kit OCR**, **Koin DI**, and **MVVM architecture**.
 
 ---
 
